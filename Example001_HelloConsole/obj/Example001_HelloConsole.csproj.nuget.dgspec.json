@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\PandA\\.nuget\\packages\\",
-        "outputPath": "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PandA\\AppData\\Roaming\\NuGet\\NuGet.Config"

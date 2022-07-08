@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74KDNKcPEMtbWBwhP7jiqo8mCC3auiAdVsg7aOXmkGScUy9ki3jc5vTaU7IQDcNRZaFlACMMUkGPZLHjMDiiJQ==",
+  "dgSpecHash": "6qFBRztgynVdOBib56O7yxRlplT6vbHoHT3jxaS4pCV5bA3ft4SIveMPJK+0CLPDHXQWiIBqO4Kg4scYrnSwXQ==",
   "success": true,
-  "projectFilePath": "E:\\Downloads\\Geek Brains\\3 Знакомство с языками программирования\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "projectFilePath": "E:\\Downloads\\GeekBrains\\3_LectureC#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
