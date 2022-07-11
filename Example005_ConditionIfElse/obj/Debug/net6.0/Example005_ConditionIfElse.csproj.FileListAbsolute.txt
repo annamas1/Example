@@ -3,3 +3,13 @@ E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debu
 E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
 E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
 E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+E:\Downloads\GeekBrains\3_LectureC#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
